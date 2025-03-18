@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there ☁️ I'm Ved! 👋
 
-<!--
-**vpt0/vpt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Cloud enthusiast by day, caffeine-fueled keyboard warrior by night.  
+☁️ I don't chase clouds; I deploy them.  
+☁️ Sometimes I wonder if my code runs better when it rains.  
+☁️ Security? Yep, I lock my code tighter than my front door.  
+☁️ Building things that make life easier... or at least, less annoying.  
+☁️ Favorite hobby? Spinning up servers and pretending they're sentient.  
+☁️ Breaking things so I can fix them and call it "experience."  
+☁️ 100% uptime? Working on it. 100% dedication? Already there.  
+☁️ My Git commits may be messy, but my cloud architectures are clean.  
+☁️ I speak fluent YAML... and sarcasm.
 
-Here are some ideas to get you started:
+📫 Ping me on: **tiwarivedprakash5388@gmail.com**  
+⚡ Fun fact: I still believe deleting `node_modules` is a personality trait.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
